@@ -1,3 +1,4 @@
-- Yeni Giriş Ekranı Ayarlandı.
-- Valedeki ufak bug halledildi.
-- Optimize sorunları düzeltildi.
+- Hatalı sunucu ismi düzeltildi
+- Yeni karakterin başka bir yerde spawnlanması düzeltildi.
+- DOJ binasına kapı kilitleri eklendi.
+- Log kanalları ayarlandı.
